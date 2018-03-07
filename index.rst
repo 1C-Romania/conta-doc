@@ -8,7 +8,7 @@ Manual de utilizare 1C:Contabilitate
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Cuprins:
 
    1Introducere_in_1CContabilitate.rst
    2Etapele_de_prelucrare.rst
