@@ -4698,7 +4698,7 @@ CUI: 29617927
 
 |image234|
 
-.. |image0| image:: media/image1.emf
+.. |image0| image:: media/image1.png
    :width: 3.43346in
    :height: 1.29252in
 .. |image1| image:: media/image2.png
@@ -4977,7 +4977,7 @@ CUI: 29617927
 .. |image92| image:: media/image92.png
    :width: 7.13983in
    :height: 3.13043in
-.. |image93| image:: media/image93.emf
+.. |image93| image:: media/image93.png
    :width: 0.32835in
    :height: 0.27362in
 .. |image94| image:: media/image94.png
@@ -4986,7 +4986,7 @@ CUI: 29617927
 .. |image95| image:: media/image95.png
    :width: 5.5913in
    :height: 4.14815in
-.. |image96| image:: media/image96.emf
+.. |image96| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image97| image:: media/image97.png
@@ -5082,19 +5082,19 @@ CUI: 29617927
 .. |image127| image:: media/image127.png
    :width: 4in
    :height: 3.77086in
-.. |image128| image:: media/image96.emf
+.. |image128| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image129| image:: media/image128.png
    :width: 7.25268in
    :height: 4in
-.. |image130| image:: media/image129.emf
+.. |image130| image:: media/image129.png
    :width: 0.28346in
    :height: 0.19724in
 .. |image131| image:: media/image130.png
    :width: 6.70435in
    :height: 3.36494in
-.. |image132| image:: media/image129.emf
+.. |image132| image:: media/image129.png
    :width: 0.28346in
    :height: 0.19724in
 .. |image133| image:: media/image131.png
@@ -5187,7 +5187,7 @@ CUI: 29617927
 .. |image162| image:: media/image160.png
    :width: 2.32174in
    :height: 1.56027in
-.. |image163| image:: media/image96.emf
+.. |image163| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image164| image:: media/image161.png
@@ -5241,7 +5241,7 @@ CUI: 29617927
 .. |image180| image:: media/image177.png
    :width: 5.56978in
    :height: 3.58261in
-.. |image181| image:: media/image96.emf
+.. |image181| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image182| image:: media/image178.png
@@ -5289,7 +5289,7 @@ CUI: 29617927
 .. |image196| image:: media/image192.png
    :width: 5.65926in
    :height: 3.2in
-.. |image197| image:: media/image96.emf
+.. |image197| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image198| image:: media/image193.png
@@ -5298,7 +5298,7 @@ CUI: 29617927
 .. |image199| image:: media/image194.png
    :width: 6.57977in
    :height: 3.18261in
-.. |image200| image:: media/image96.emf
+.. |image200| image:: media/image96.png
    :width: 0.28346in
    :height: 0.21654in
 .. |image201| image:: media/image195.png
@@ -5397,9 +5397,9 @@ CUI: 29617927
 .. |image232| image:: media/image226.png
    :width: 6.36458in
    :height: 5.01042in
-.. |image233| image:: media/image227.emf
+.. |image233| image:: media/image227.png
    :width: 0.62992in
    :height: 0.17008in
-.. |image234| image:: media/image1.emf
+.. |image234| image:: media/image1.png
    :width: 2.83346in
    :height: 1.0626in
