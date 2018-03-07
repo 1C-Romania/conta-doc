@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = conta-doc
 SOURCEDIR     = .
-BUILDDIR      = _build
+BUILDDIR      = /var/www/html/conta-doc
 
 # Put it first so that "make" without argument is like "make help".
 help:
