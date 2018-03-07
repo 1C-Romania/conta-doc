@@ -64,7 +64,6 @@ legislației din România.
 ~~~~~~~~~~~~~~~~~~~~~
 
 Această informație se poate seta prin accesarea meniului "Societatea → Politică de evidență → Politică contabilă".Exsită două posibilități:fie modificăm câmpul deja existent și adăugăm datele necesare, fie adăugăm o nouă societate.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image57|
 
