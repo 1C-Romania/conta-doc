@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to conta-doc's documentation!
+Manual de utilizare 1C:Contabilitatea
 =====================================
 
 .. toctree::
