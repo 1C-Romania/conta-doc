@@ -138,6 +138,60 @@ completăm datele necesare, vom selecta angajatul respectiv, introducem
 concediu medical va trebui să introducem manual suma aferentă
 concediului și numărul de zile (ore) de concediu.
 
+Modificari aduse blocului de salarii, cu orare de lucru si grafice de lucru
+---------------------------------------------------------------------------
+
+“Persoane fizice” -  Se inregistreaza salariatul ca persoana fizica, unde vom completa  toate campurile,  inclusiv Informatiile de contact (adresa angajatului) , pentru a putea fi preluate in rapoartele si documentele necesare generate;
+
+|image20180327_1|
+
+“Registrul de angajati” –  se deschide lista cu toti salariatii societatii si putem  face filtru pe un angajat si vizualizam contractul de munca si toate actele aditionale intocmite pentru acesta, precum si rezilierea contractului;
+
+|image20180327_2|
+
+|image20180327_3|
+
+“Lista sarbatorilor”- Se completeaza cu lista sarbatorilor implicita, iar in momentul in care Guvernul a aprobat o alta zi ca sarbatoare, nelucratoare, se adauga manual in aceasta lista – forma datei este luna-ziua(Ex: 0501-Ziua Muncii
+
+|image20180327_4|
+
+“Setari pentru tipul orelor de lurcru” – Se face completarea catalogului cu valori implicite;
+
+|image20180327_5|
+
+“Grafice de lucru” – Se completeaza lista cu tipul graficelor de lucru, in functie de specific si de contractul fiecarui angajat.  Daca angajatul lucreaza ore suplimentare sau orice fel de ore in afara de cele normale, atunci se poate seta coeficientul de calcul(taxare) in functie de cat acorda angajatorul pentru acele ore;
+
+|image20180327_6|
+
+Se pot face mai multe setari ale graficelor:
+-cand angajatul lucreaza numai in anumite zile si are un anumit numar de ore;
+
+|image20180327_7|
+
+|image20180327_8|
+
+|image20180327_9|
+
+-cand angajatul are un timp de lucru neregulat;  In acest caz, se poate filtra sa se vada timpul de lucru de la o anumita data, selectand data:
+
+|image20180327_10|
+
+Pentru ca exportul de fisier xml sa fie corect, trebuie ca la ultimul document al angajatului(Contract de angajare sau Act aditional) sa se completeze toate campurile din aceste documente, obligatoriu. Deasemenea va trebui sa se revalideze Rezilierea contractului.
+
+Pentru generarea corecta a Adeverintelor si Declaratiilor pentru angajati, este necesar sa se completeze la persoana fizica toate campurile de la Date generale, Informatia de contact si Persoane in intretinere daca este cazul.
+
+S-au adaugat campuri noi  la Societatea – Politica contabila - Retineri salariale,  pe fila Angajat, unde fiecare utilizator poate adauga procentele pentru sporuri ore noapte, suplimentare, weekend si sarbatori.
+
+.. |image20180327_10| image:: media/image20180327_10.png
+.. |image20180327_9| image:: media/image20180327_9.png
+.. |image20180327_8| image:: media/image20180327_8.png
+.. |image20180327_7| image:: media/image20180327_7.png
+.. |image20180327_6| image:: media/image20180327_6.png
+.. |image20180327_5| image:: media/image20180327_5.png
+.. |image20180327_4| image:: media/image20180327_4.png
+.. |image20180327_3| image:: media/image20180327_3.png
+.. |image20180327_2| image:: media/image20180327_2.png
+.. |image20180327_1| image:: media/image20180327_1.png
 .. |image217| image:: media/image211.png
    :width: 6.67826in
    :height: 3.01182in
