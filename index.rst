@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Manual de utilizare 1C:Contabilitate
-====================================
+Manual de utilizare "1C:Contabilitate"
+======================================
 
 .. toctree::
    :maxdepth: 2
