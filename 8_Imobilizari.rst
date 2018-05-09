@@ -39,7 +39,7 @@ Presupunem următorul exemplu – Vom achiziționa o imobilizare corporală
 (în cazul nostru o mașina Dacia Logan) pe care va trebui să o punem în
 funcțiune.
 
-|image210|
+|image228|
 
 Pentru a introduce o imobilizare nouă intrăm la rubrica - Catalog
 „ **Imobilizări corporale** ” și accesăm butonul „ **Adăugare** ”;
