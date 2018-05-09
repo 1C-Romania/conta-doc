@@ -39,12 +39,14 @@ Presupunem următorul exemplu – Vom achiziționa o imobilizare corporală
 (în cazul nostru o mașina Dacia Logan) pe care va trebui să o punem în
 funcțiune.
 
+|image210|
+
 Pentru a introduce o imobilizare nouă intrăm la rubrica - Catalog
 „ **Imobilizări corporale** ” și accesăm butonul „ **Adăugare** ”;
 se va deschide următoarea fereastra unde vom completa datele referitoare
 la imobilizarea nouă.
 
-|image228|
+|image211|
 
 Apoi vom intra la *Activitate principală → Aprovizionare și servicii
 primite* pentru a face achiziția imobilizării, accesăm butonul
